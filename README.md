@@ -22,15 +22,15 @@ Just download the project from git and open it in the latest stable version Andr
 In the unlikely event that Android Studio wouldn't be able to locate the SDK directory, you need to add local.properties file in the main project folder and add the Android SDK path.
 
 For Mac:
-sdk.dir = /Users/USERNAME/Library/Android/sdk
+```sdk.dir = /Users/USERNAME/Library/Android/sdk```
 where USERNAME is your Mac username
 
 For Windows: 
-sdk.dir=C\:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+```sdk.dir=C\:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk```
 where USERNAME is your Windows username
 
 For Linux: 
-sdk.dir = /home/USERNAME/Android/Sdk
+```sdk.dir = /home/USERNAME/Android/Sdk```
 where USERNAME is your Linux username
 
 
